@@ -72,8 +72,9 @@ input=gets.chomp
 input.split(",").map {|char| char.to_i}
 end
 
-
+#fjhgbefjg
 #ghrtdyhrtyr6urtir6
+
 
 def towers
   @towers
